@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "../../images/blue-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 2,
+    "image": "../../images/brightpink-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 3,
+    "image": "../../images/brown-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 4,
+    "image": "../../images/browndrizzle-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 5,
+    "image": "../../images/brownsprinkles-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 6,
+    "image": "../../images/cake-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 7,
+    "image": "../../images/orange-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 8,
+    "image": "../../images/pink-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 9,
+    "image": "../../images/pinkdrizzle-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 10,
+    "image": "../../images/pinksprinkles-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 11,
+    "image": "../../images/violet-01.png",
+    "status": "not clicked"
+  },
+  {
+    "id": 12,
+    "image": "../../images/whitewithbrown-01.png",
+    "status": "not clicked"
+  }
+]
