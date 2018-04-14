@@ -1,4 +1,4 @@
-<h3>Donut Forget</h3>
+<h1>Donut Forget</h1>
 
 The game was built in React, using React generation NPM/Yarn tool create-react-app. The game's organized into three parts: theapplication's UI components, manage component state, and respond to user events.
 
